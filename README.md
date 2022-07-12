@@ -44,4 +44,10 @@ If you have not already done so, set up a GitHub account and send your email or 
 
 10. Whoever tries to push the file first will likely succeed. Whoever tries to push the file second will likely get an error message. Figure out how to resolve the error message.
 
+11. Create a new branch named <yournumber_name> and switch to it.
+
+12. Create a new folder name as <yournumber_name> and add a text file inside this folder and type "working with branches" into this text file.
+
+13. Once done above steps stage, commit and push to repo.
+
 <center> &#8987; Happy Coding  &#9997; </center>
