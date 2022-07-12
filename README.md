@@ -1,4 +1,3 @@
-
 <center><img src="https://github.com/aaron-clarusway/fullstack/blob/master/itf-logo.png?raw=true"  alt="alt text" width="200"/></center>
 <br>
 
@@ -19,14 +18,13 @@ At the end of the this coding challenge, students will be able to;
 
 - send the changes to remote repository
 
-
 ## Preparation
 
-If you have not already done so, set up a GitHub account and send me (tyler@clarusway.com) an email message telling me about the account.
+If you have not already done so, set up a GitHub account and send your email or username from slack.
 
 ## Problem Statement
 
-1. Clone the repository at https://github.com/TylerCounter/project-xv
+1. Clone the repository at https://github.com/clarusway/Clarusway-Full-Stack-Prep-12-Git-Workshop.git
 
 2. Add a file that describes you and named your_number_name.txt to the **participants** directory.
 
@@ -34,7 +32,7 @@ If you have not already done so, set up a GitHub account and send me (tyler@clar
 
 4. then comit your changes. Use a meaningful message like "Added information about YOUR NAME HERE."
 
-5. Use **git push** to send your change to the Tyler's remote repository. (https://github.com/TylerCounter/project-xv)
+5. Use **git push** to send your change to the remote repository.
 
 6. Look online to see if your change has been pushed.
 
@@ -45,11 +43,5 @@ If you have not already done so, set up a GitHub account and send me (tyler@clar
 9. Edit the file participants.md to add your name. Then add the file, commit it, and push it.
 
 10. Whoever tries to push the file first will likely succeed. Whoever tries to push the file second will likely get an error message. Figure out how to resolve the error message.
-
-11. Submit your commands you have run for completing the assignment?
-(Tips: `$ history`)
-
-12. LMS Submit Link :computer_mouse: --> [ CC-05 Git ](https://lms.clarusway.com/mod/assign/view.php?id=7739)
-
 
 <center> &#8987; Happy Coding  &#9997; </center>
